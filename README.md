@@ -1,0 +1,2 @@
+# a-Model-Framework-for-Simulating-Spatial-Hearing-of-Bilateral-Cochlear-Implants-Users
+Citation Hu, H., Ausili, S. A., Williges, B., Klug, J., Felsheim, R. C., Vickers, D., &amp; Dietz, M. (2022). Matlab Code and Results for the Manuscript Submitted to Acta Acustica 'a Model Framework for Simulating Spatial Hearing of Bilateral Cochlear Implants Users' (version 1.0). Zenodo. https://doi.org/10.5281/zenodo.7471961
